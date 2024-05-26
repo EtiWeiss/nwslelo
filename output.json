@@ -1,0 +1,58 @@
+[
+	{
+		"team" : "Angel City FC",
+		"elo" : 1000
+	},
+	{
+		"team" : "Bay FC",
+		"elo" : 1000
+	},
+	{
+		"team" : "Chicago Red Stars",
+		"elo" : 1000
+	},
+	{
+		"team" : "Houston Dash",
+		"elo" : 1000
+	},
+	{
+		"team" : "Kansas City Current",
+		"elo" : 1000
+	},
+	{
+		"team" : "NJ/NY Gotham FC",
+		"elo" : 1000
+	},
+	{
+		"team" : "North Carolina Courage",
+		"elo" : 1000
+	},
+	{
+		"team" : "Orlando Pride",
+		"elo" : 1000
+	},
+	{
+		"team" : "Portland Thorns FC",
+		"elo" : 1000
+	},
+	{
+		"team" : "Racing Louisville FC",
+		"elo" : 1000
+	},
+	{
+		"team" : "San Diego Wave FC",
+		"elo" : 1000
+	},
+	{
+		"team" : "Seattle Reign",
+		"elo" : 1000
+	},
+	{
+		"team" : "Utah Royals FC",
+		"elo" : 1000
+	},
+	{
+		"team" : "Washington Spirit",
+		"elo" : 1000
+	}
+]
