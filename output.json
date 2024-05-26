@@ -1,58 +1,58 @@
 [
 	{
-		"team" : "Angel City FC",
-		"elo" : 1000
+        "team": "Orlando Pride",
+        "elo": 1074
 	},
 	{
-		"team" : "Bay FC",
-		"elo" : 1000
+        "team": "Kansas City Current",
+        "elo": 1058
 	},
 	{
-		"team" : "Chicago Red Stars",
-		"elo" : 1000
+        "team": "Washington Spirit",
+        "elo": 1024
 	},
 	{
-		"team" : "Houston Dash",
-		"elo" : 1000
+        "team": "Portland Thorns FC",
+        "elo": 1021
 	},
 	{
-		"team" : "Kansas City Current",
-		"elo" : 1000
+        "team": "San Diego Wave FC",
+        "elo": 1007
 	},
 	{
-		"team" : "NJ/NY Gotham FC",
-		"elo" : 1000
+        "team": "Angel City FC",
+        "elo": 1005
 	},
 	{
-		"team" : "North Carolina Courage",
-		"elo" : 1000
+        "team": "Chicago Red Stars",
+        "elo": 1004
 	},
 	{
-		"team" : "Orlando Pride",
-		"elo" : 1000
+        "team": "NJ/NY Gotham FC",
+        "elo": 1004
 	},
 	{
-		"team" : "Portland Thorns FC",
-		"elo" : 1000
+        "team": "Racing Louisville FC",
+        "elo": 995
 	},
 	{
-		"team" : "Racing Louisville FC",
-		"elo" : 1000
+        "team": "North Carolina Courage",
+        "elo": 989
 	},
 	{
-		"team" : "San Diego Wave FC",
-		"elo" : 1000
+        "team": "Seattle Reign",
+        "elo": 962
 	},
 	{
-		"team" : "Seattle Reign",
-		"elo" : 1000
+        "team": "Houston Dash",
+        "elo": 953
 	},
 	{
-		"team" : "Utah Royals FC",
-		"elo" : 1000
+        "team": "Bay FC",
+        "elo": 937
 	},
 	{
-		"team" : "Washington Spirit",
-		"elo" : 1000
+        "team": "Utah Royals FC",
+        "elo": 925
 	}
 ]
