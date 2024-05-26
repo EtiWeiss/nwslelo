@@ -5,8 +5,8 @@ fetch('output.json')
     data.forEach(item => {
       const row = document.createElement('tr');
       row.innerHTML = `
-        <td>${item.Team}</td>
-        <td>${item.Elo}</td>
+        <td>${item.team}</td>
+        <td>${item.elo}</td>
       `;
       tableBody.appendChild(row);
     });
