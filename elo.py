@@ -1,5 +1,6 @@
 #get current elo
 import mysql.connector
+import json
 
 def get_elo(team):
     conn = mysql.connector.connect(
@@ -44,6 +45,25 @@ def update_matchups(Team1,ELO1,Team2,Elo2,Result1,Result2,Elo1new,Elo2new):
     cursor.close()
     conn.close()
 
+def write_json():
+    conn = mysql.connector.connect(
+        host="127.0.0.1",
+        user="root",
+        password="iTTia1!Rd",
+        database="nwslelo"
+    )
+    cursor = conn.cursor()
+    query = "select team,elo from teams order by elo desc"
+    cursor.execute(query)
+    rows = cursor.fetchall()
+    data = []
+    for row in rows:
+        data.append(dict(zip(cursor.column_names,row)))
+    with open('output.json','w') as f:
+        json.dump(data,f,indent=4)
+    conn.close()
+
+
 team1 = input('Who was the first team? ')
 elo_not1 = get_elo(team1)
 team2 = input('Who was the second team? ')
@@ -74,6 +94,7 @@ if commit == 'Y':
     update_elo(elo1new,team1) #update elo
     update_elo(elo2new,team2) #update elo
     update_matchups(team1,elo_not1,team2,elo_not2,result1,result2,elo1new,elo2new) #update matchup
+    write_json() #outputs to json file, picked up by js to html
     print('Elo has been updated!')
 else:
     print('Start program again and enter correct info. If problem persists, contact Support')
