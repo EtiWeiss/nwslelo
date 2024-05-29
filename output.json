@@ -1,57 +1,71 @@
 [
     {
+        "link": "teams/orlando.html",
         "team": "Orlando Pride",
         "elo": 1106
     },
     {
+        "link": "teams/current.html",
         "team": "Kansas City Current",
         "elo": 1073
     },
     {
+        "link": "teams/washington.html",
         "team": "Washington Spirit",
         "elo": 1061
     },
     {
+        "link": "teams/portland.html",
         "team": "Portland Thorns FC",
         "elo": 1033
     },
     {
+        "link": "teams/gotham.html",
         "team": "NJ/NY Gotham FC",
         "elo": 1020
     },
     {
+        "link": "teams/louisville.html",
         "team": "Racing Louisville FC",
         "elo": 1000
     },
     {
+        "link": "teams/sandiego.html",
         "team": "San Diego Wave FC",
         "elo": 985
     },
     {
+        "link": "teams/chicago.html",
         "team": "Chicago Red Stars",
         "elo": 982
     },
     {
+        "link": "teams/houston.html",
         "team": "Houston Dash",
         "elo": 974
     },
     {
+        "link": "teams/angelcity.html",
         "team": "Angel City FC",
         "elo": 972
     },
     {
+        "link": "teams/courage.html",
         "team": "North Carolina Courage",
         "elo": 971
     },
     {
+        "link": "teams/bayfc.html",
         "team": "Bay FC",
         "elo": 946
     },
     {
+        "link": "teams/seattle.html",
         "team": "Seattle Reign",
         "elo": 926
     },
     {
+        "link": "teams/utah.html",
         "team": "Utah Royals FC",
         "elo": 889
     }

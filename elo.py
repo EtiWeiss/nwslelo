@@ -53,7 +53,7 @@ def write_json():
         database="nwslelo"
     )
     cursor = conn.cursor()
-    query = "select team,elo from teams order by elo desc"
+    query = "select * from teams order by elo desc"
     cursor.execute(query)
     rows = cursor.fetchall()
     data = []
