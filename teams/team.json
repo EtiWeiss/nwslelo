@@ -1,8 +1,8 @@
 [
     {
-        "Team1": "NJ/NY Gotham FC",
+        "Team1": "Angel City FC",
         "ELO1": 1000,
-        "Team2": "San Diego Wave FC",
+        "Team2": "Bay FC",
         "Elo2": 1000,
         "Result1": 0.0,
         "Result2": 1.0,
@@ -10,103 +10,93 @@
         "Elo2new": 1016
     },
     {
-        "Team1": "NJ/NY Gotham FC",
+        "Team1": "Orlando Pride",
         "ELO1": 1000,
-        "Team2": "San Diego Wave FC",
-        "Elo2": 1000,
-        "Result1": 0.0,
-        "Result2": 1.0,
-        "Elo1new": 984,
-        "Elo2new": 1016
-    },
-    {
-        "Team1": "Portland Thorns FC",
-        "ELO1": 984,
-        "Team2": "NJ/NY Gotham FC",
+        "Team2": "Angel City FC",
         "Elo2": 984,
-        "Result1": 0.0,
-        "Result2": 1.0,
-        "Elo1new": 968,
-        "Elo2new": 1000
-    },
-    {
-        "Team1": "North Carolina Courage",
-        "ELO1": 998,
-        "Team2": "NJ/NY Gotham FC",
-        "Elo2": 1000,
-        "Result1": 1.0,
-        "Result2": 0.0,
-        "Elo1new": 1014,
-        "Elo2new": 983
-    },
-    {
-        "Team1": "NJ/NY Gotham FC",
-        "ELO1": 983,
-        "Team2": "Kansas City Current",
-        "Elo2": 1045,
         "Result1": 0.5,
         "Result2": 0.5,
-        "Elo1new": 985,
-        "Elo2new": 1042
+        "Elo1new": 999,
+        "Elo2new": 984
     },
     {
-        "Team1": "Washington Spirit",
+        "Team1": "Kansas City Current",
         "ELO1": 1032,
-        "Team2": "NJ/NY Gotham FC",
-        "Elo2": 985,
+        "Team2": "Angel City FC",
+        "Elo2": 984,
         "Result1": 1.0,
         "Result2": 0.0,
         "Elo1new": 1045,
-        "Elo2new": 971
+        "Elo2new": 970
     },
     {
-        "Team1": "NJ/NY Gotham FC",
-        "ELO1": 971,
-        "Team2": "Racing Louisville FC",
-        "Elo2": 1011,
-        "Result1": 0.5,
-        "Result2": 0.5,
-        "Elo1new": 972,
+        "Team1": "Chicago Red Stars",
+        "ELO1": 1030,
+        "Team2": "Angel City FC",
+        "Elo2": 970,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 1011,
+        "Elo2new": 988
+    },
+    {
+        "Team1": "Angel City FC",
+        "ELO1": 988,
+        "Team2": "North Carolina Courage",
+        "Elo2": 1027,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1005,
         "Elo2new": 1009
     },
     {
-        "Team1": "NJ/NY Gotham FC",
-        "ELO1": 972,
-        "Team2": "North Carolina Courage",
-        "Elo2": 1007,
+        "Team1": "Kansas City Current",
+        "ELO1": 1055,
+        "Team2": "Angel City FC",
+        "Elo2": 1005,
         "Result1": 1.0,
         "Result2": 0.0,
-        "Elo1new": 989,
-        "Elo2new": 989
+        "Elo1new": 1068,
+        "Elo2new": 991
     },
     {
-        "Team1": "Houston Dash",
-        "ELO1": 969,
-        "Team2": "NJ/NY Gotham FC",
-        "Elo2": 989,
+        "Team1": "Utah Royals FC",
+        "ELO1": 954,
+        "Team2": "Angel City FC",
+        "Elo2": 991,
         "Result1": 0.0,
         "Result2": 1.0,
-        "Elo1new": 953,
-        "Elo2new": 1004
+        "Elo1new": 939,
+        "Elo2new": 1005
     },
     {
-        "Team1": "San Diego Wave FC",
-        "ELO1": 1007,
-        "Team2": "NJ/NY Gotham FC",
-        "Elo2": 1004,
-        "Result1": 0.5,
-        "Result2": 0.5,
-        "Elo1new": 1006,
-        "Elo2new": 1004
+        "Team1": "Angel City FC",
+        "ELO1": 1005,
+        "Team2": "Houston Dash",
+        "Elo2": 953,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 986,
+        "Elo2new": 971
     },
     {
-        "Team1": "NJ/NY Gotham FC",
-        "ELO1": 1004,
-        "Team2": "Chicago Red Stars",
-        "Elo2": 1016,
+        "Team1": "Washington Spirit",
+        "ELO1": 1038,
+        "Team2": "Angel City FC",
+        "Elo2": 986,
         "Result1": 1.0,
         "Result2": 0.0,
-        "Elo1new": 1020,
-        "Elo2new": 999
+        "Elo1new": 1051,
+        "Elo2new": 972
+    },
+    {
+        "Team1": "Angel City FC",
+        "ELO1": 972,
+        "Team2": "San Diego Wave FC",
+        "Elo2": 986,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 972,
+        "Elo2new": 985
     }
 ]

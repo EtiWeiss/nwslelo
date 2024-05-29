@@ -38,7 +38,7 @@ def write_elo_json(team1):
     conn.close()
 
 
-team1 = 'NJ/NY Gotham FC' #team name here
+team1 = 'Angel City FC' #team name here
 team2 = team1
 write_json(team1,team2)
 write_elo_json(team1)
