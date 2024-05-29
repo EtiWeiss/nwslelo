@@ -1,0 +1,112 @@
+[
+    {
+        "id": 3,
+        "Team1": "NJ/NY Gotham FC",
+        "ELO1": 1000,
+        "Team2": "San Diego Wave FC",
+        "Elo2": 1000,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 984,
+        "Elo2new": 1016
+    },
+    {
+        "id": 16,
+        "Team1": "Portland Thorns FC",
+        "ELO1": 984,
+        "Team2": "NJ/NY Gotham FC",
+        "Elo2": 984,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 968,
+        "Elo2new": 1000
+    },
+    {
+        "id": 20,
+        "Team1": "North Carolina Courage",
+        "ELO1": 998,
+        "Team2": "NJ/NY Gotham FC",
+        "Elo2": 1000,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1014,
+        "Elo2new": 983
+    },
+    {
+        "id": 29,
+        "Team1": "NJ/NY Gotham FC",
+        "ELO1": 983,
+        "Team2": "Kansas City Current",
+        "Elo2": 1045,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 985,
+        "Elo2new": 1042
+    },
+    {
+        "id": 32,
+        "Team1": "Washington Spirit",
+        "ELO1": 1032,
+        "Team2": "NJ/NY Gotham FC",
+        "Elo2": 985,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1045,
+        "Elo2new": 971
+    },
+    {
+        "id": 44,
+        "Team1": "NJ/NY Gotham FC",
+        "ELO1": 971,
+        "Team2": "Racing Louisville FC",
+        "Elo2": 1011,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 972,
+        "Elo2new": 1009
+    },
+    {
+        "id": 50,
+        "Team1": "NJ/NY Gotham FC",
+        "ELO1": 972,
+        "Team2": "North Carolina Courage",
+        "Elo2": 1007,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 989,
+        "Elo2new": 989
+    },
+    {
+        "id": 55,
+        "Team1": "Houston Dash",
+        "ELO1": 969,
+        "Team2": "NJ/NY Gotham FC",
+        "Elo2": 989,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 953,
+        "Elo2new": 1004
+    },
+    {
+        "id": 63,
+        "Team1": "San Diego Wave FC",
+        "ELO1": 1007,
+        "Team2": "NJ/NY Gotham FC",
+        "Elo2": 1004,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 1006,
+        "Elo2new": 1004
+    },
+    {
+        "id": 70,
+        "Team1": "NJ/NY Gotham FC",
+        "ELO1": 1004,
+        "Team2": "Chicago Red Stars",
+        "Elo2": 1016,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1020,
+        "Elo2new": 999
+    }
+]

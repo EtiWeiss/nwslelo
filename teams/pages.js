@@ -1,4 +1,4 @@
-fetch('team.json')
+fetch('AngelCityMatches.json')
   .then(response => response.json())
   .then(data => {
     const tableBody = document.getElementById('table-body');
@@ -19,7 +19,7 @@ fetch('team.json')
   })
   .catch(error => console.error('Error fetching JSON:', error));
 
-fetch('page.json')
+fetch('AngelCityElo.json')
   .then(response => response.json())
   .then(data => {
     const teamName = data[0].team;

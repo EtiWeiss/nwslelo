@@ -1,0 +1,112 @@
+[
+    {
+        "id": 9,
+        "Team1": "Angel City FC",
+        "ELO1": 1000,
+        "Team2": "Bay FC",
+        "Elo2": 1000,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 984,
+        "Elo2new": 1016
+    },
+    {
+        "id": 10,
+        "Team1": "Orlando Pride",
+        "ELO1": 1000,
+        "Team2": "Angel City FC",
+        "Elo2": 984,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 999,
+        "Elo2new": 984
+    },
+    {
+        "id": 19,
+        "Team1": "Kansas City Current",
+        "ELO1": 1032,
+        "Team2": "Angel City FC",
+        "Elo2": 984,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1045,
+        "Elo2new": 970
+    },
+    {
+        "id": 28,
+        "Team1": "Chicago Red Stars",
+        "ELO1": 1030,
+        "Team2": "Angel City FC",
+        "Elo2": 970,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 1011,
+        "Elo2new": 988
+    },
+    {
+        "id": 37,
+        "Team1": "Angel City FC",
+        "ELO1": 988,
+        "Team2": "North Carolina Courage",
+        "Elo2": 1027,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1005,
+        "Elo2new": 1009
+    },
+    {
+        "id": 39,
+        "Team1": "Kansas City Current",
+        "ELO1": 1055,
+        "Team2": "Angel City FC",
+        "Elo2": 1005,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1068,
+        "Elo2new": 991
+    },
+    {
+        "id": 48,
+        "Team1": "Utah Royals FC",
+        "ELO1": 954,
+        "Team2": "Angel City FC",
+        "Elo2": 991,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 939,
+        "Elo2new": 1005
+    },
+    {
+        "id": 64,
+        "Team1": "Angel City FC",
+        "ELO1": 1005,
+        "Team2": "Houston Dash",
+        "Elo2": 953,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 986,
+        "Elo2new": 971
+    },
+    {
+        "id": 68,
+        "Team1": "Washington Spirit",
+        "ELO1": 1038,
+        "Team2": "Angel City FC",
+        "Elo2": 986,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1051,
+        "Elo2new": 972
+    },
+    {
+        "id": 72,
+        "Team1": "Angel City FC",
+        "ELO1": 972,
+        "Team2": "San Diego Wave FC",
+        "Elo2": 986,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 972,
+        "Elo2new": 985
+    }
+]
