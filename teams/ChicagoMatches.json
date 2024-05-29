@@ -1,0 +1,123 @@
+[
+    {
+        "id": 7,
+        "Team1": "Utah Royals FC",
+        "ELO1": 1000,
+        "Team2": "Chicago Red Stars",
+        "Elo2": 1000,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 984,
+        "Elo2new": 1016
+    },
+    {
+        "id": 12,
+        "Team1": "Chicago Red Stars",
+        "ELO1": 1016,
+        "Team2": "Seattle Reign",
+        "Elo2": 1016,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1032,
+        "Elo2new": 1000
+    },
+    {
+        "id": 17,
+        "Team1": "Orlando Pride",
+        "ELO1": 999,
+        "Team2": "Chicago Red Stars",
+        "Elo2": 1032,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 1000,
+        "Elo2new": 1030
+    },
+    {
+        "id": 28,
+        "Team1": "Chicago Red Stars",
+        "ELO1": 1030,
+        "Team2": "Angel City FC",
+        "Elo2": 970,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 1011,
+        "Elo2new": 988
+    },
+    {
+        "id": 36,
+        "Team1": "Seattle Reign",
+        "ELO1": 967,
+        "Team2": "Chicago Red Stars",
+        "Elo2": 1011,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 953,
+        "Elo2new": 1024
+    },
+    {
+        "id": 41,
+        "Team1": "Chicago Red Stars",
+        "ELO1": 1024,
+        "Team2": "Portland Thorns FC",
+        "Elo2": 972,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 1005,
+        "Elo2new": 990
+    },
+    {
+        "id": 46,
+        "Team1": "Chicago Red Stars",
+        "ELO1": 1005,
+        "Team2": "Washington Spirit",
+        "Elo2": 1028,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 990,
+        "Elo2new": 1042
+    },
+    {
+        "id": 54,
+        "Team1": "Bay FC",
+        "ELO1": 952,
+        "Team2": "Chicago Red Stars",
+        "Elo2": 990,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 937,
+        "Elo2new": 1004
+    },
+    {
+        "id": 61,
+        "Team1": "Chicago Red Stars",
+        "ELO1": 1004,
+        "Team2": "Utah Royals FC",
+        "Elo2": 925,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1016,
+        "Elo2new": 912
+    },
+    {
+        "id": 70,
+        "Team1": "NJ/NY Gotham FC",
+        "ELO1": 1004,
+        "Team2": "Chicago Red Stars",
+        "Elo2": 1016,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1020,
+        "Elo2new": 999
+    },
+    {
+        "id": 76,
+        "Team1": "Chicago Red Stars",
+        "ELO1": 999,
+        "Team2": "Racing Louisville FC",
+        "Elo2": 984,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 982,
+        "Elo2new": 1000
+    }
+]

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title id="title">Bay FC</title>
+    <title id="title">Racing Louisville</title>
     <link rel="stylesheet" type="text/css" href="../style.css" />
 </head>
 <body>
@@ -28,7 +28,7 @@
         </table>
     </div>
     <script>
-        fetch('BayFCMatches.json') //update json path
+        fetch('RachingMatches.json') //update json path
             .then(response => response.json())
             .then(data => {
             const tableBody = document.getElementById('table-body');
@@ -49,7 +49,7 @@
         })
         .catch(error => console.error('Error fetching JSON:', error));
 
-        fetch('BayFCElo.json') //update json path
+        fetch('RachingElo.json') //update json path
             .then(response => response.json())
             .then(data => {
                 const teamName = data[0].team;

@@ -1,0 +1,123 @@
+[
+    {
+        "id": 4,
+        "Team1": "Kansas City Current",
+        "ELO1": 1000,
+        "Team2": "Portland Thorns FC",
+        "Elo2": 1000,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1016,
+        "Elo2new": 984
+    },
+    {
+        "id": 15,
+        "Team1": "San Diego Wave FC",
+        "ELO1": 1016,
+        "Team2": "Kansas City Current",
+        "Elo2": 1016,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 1000,
+        "Elo2new": 1032
+    },
+    {
+        "id": 19,
+        "Team1": "Kansas City Current",
+        "ELO1": 1032,
+        "Team2": "Angel City FC",
+        "Elo2": 984,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1045,
+        "Elo2new": 970
+    },
+    {
+        "id": 29,
+        "Team1": "NJ/NY Gotham FC",
+        "ELO1": 983,
+        "Team2": "Kansas City Current",
+        "Elo2": 1045,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 985,
+        "Elo2new": 1042
+    },
+    {
+        "id": 34,
+        "Team1": "Kansas City Current",
+        "ELO1": 1042,
+        "Team2": "Bay FC",
+        "Elo2": 997,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1055,
+        "Elo2new": 983
+    },
+    {
+        "id": 39,
+        "Team1": "Kansas City Current",
+        "ELO1": 1055,
+        "Team2": "Angel City FC",
+        "Elo2": 1005,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1068,
+        "Elo2new": 991
+    },
+    {
+        "id": 52,
+        "Team1": "Houston Dash",
+        "ELO1": 965,
+        "Team2": "Kansas City Current",
+        "Elo2": 1068,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 969,
+        "Elo2new": 1063
+    },
+    {
+        "id": 56,
+        "Team1": "Seattle Reign",
+        "ELO1": 958,
+        "Team2": "Kansas City Current",
+        "Elo2": 1063,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 962,
+        "Elo2new": 1058
+    },
+    {
+        "id": 62,
+        "Team1": "Kansas City Current",
+        "ELO1": 1058,
+        "Team2": "North Carolina Courage",
+        "Elo2": 989,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1070,
+        "Elo2new": 976
+    },
+    {
+        "id": 69,
+        "Team1": "Kansas City Current",
+        "ELO1": 1070,
+        "Team2": "Racing Louisville FC",
+        "Elo2": 980,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 1065,
+        "Elo2new": 984
+    },
+    {
+        "id": 77,
+        "Team1": "Utah Royals FC",
+        "ELO1": 898,
+        "Team2": "Kansas City Current",
+        "Elo2": 1065,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 889,
+        "Elo2new": 1073
+    }
+]

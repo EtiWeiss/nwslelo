@@ -1,0 +1,123 @@
+[
+    {
+        "id": 5,
+        "Team1": "Racing Louisville FC",
+        "ELO1": 1000,
+        "Team2": "Orlando Pride",
+        "Elo2": 1000,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 1000,
+        "Elo2new": 1000
+    },
+    {
+        "id": 10,
+        "Team1": "Orlando Pride",
+        "ELO1": 1000,
+        "Team2": "Angel City FC",
+        "Elo2": 984,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 999,
+        "Elo2new": 984
+    },
+    {
+        "id": 17,
+        "Team1": "Orlando Pride",
+        "ELO1": 999,
+        "Team2": "Chicago Red Stars",
+        "Elo2": 1032,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 1000,
+        "Elo2new": 1030
+    },
+    {
+        "id": 25,
+        "Team1": "Utah Royals FC",
+        "ELO1": 985,
+        "Team2": "Orlando Pride",
+        "Elo2": 1000,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 969,
+        "Elo2new": 1015
+    },
+    {
+        "id": 31,
+        "Team1": "Orlando Pride",
+        "ELO1": 1015,
+        "Team2": "San Diego Wave FC",
+        "Elo2": 1015,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1031,
+        "Elo2new": 999
+    },
+    {
+        "id": 38,
+        "Team1": "Washington Spirit",
+        "ELO1": 1045,
+        "Team2": "Orlando Pride",
+        "Elo2": 1031,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 1028,
+        "Elo2new": 1047
+    },
+    {
+        "id": 45,
+        "Team1": "Orlando Pride",
+        "ELO1": 1047,
+        "Team2": "North Carolina Courage",
+        "Elo2": 1022,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1061,
+        "Elo2new": 1007
+    },
+    {
+        "id": 53,
+        "Team1": "Orlando Pride",
+        "ELO1": 1061,
+        "Team2": "Racing Louisville FC",
+        "Elo2": 1009,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1074,
+        "Elo2new": 995
+    },
+    {
+        "id": 59,
+        "Team1": "Orlando Pride",
+        "ELO1": 1074,
+        "Team2": "Bay FC",
+        "Elo2": 937,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1083,
+        "Elo2new": 927
+    },
+    {
+        "id": 71,
+        "Team1": "Seattle Reign",
+        "ELO1": 948,
+        "Team2": "Orlando Pride",
+        "Elo2": 1083,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 937,
+        "Elo2new": 1093
+    },
+    {
+        "id": 73,
+        "Team1": "Orlando Pride",
+        "ELO1": 1093,
+        "Team2": "Portland Thorns FC",
+        "Elo2": 1047,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1106,
+        "Elo2new": 1033
+    }
+]

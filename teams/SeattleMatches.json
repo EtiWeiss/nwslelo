@@ -1,0 +1,123 @@
+[
+    {
+        "id": 8,
+        "Team1": "Seattle Reign",
+        "ELO1": 1000,
+        "Team2": "Washington Spirit",
+        "Elo2": 1000,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1016,
+        "Elo2new": 984
+    },
+    {
+        "id": 12,
+        "Team1": "Chicago Red Stars",
+        "ELO1": 1016,
+        "Team2": "Seattle Reign",
+        "Elo2": 1016,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1032,
+        "Elo2new": 1000
+    },
+    {
+        "id": 18,
+        "Team1": "San Diego Wave FC",
+        "ELO1": 1000,
+        "Team2": "Seattle Reign",
+        "Elo2": 1000,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1016,
+        "Elo2new": 984
+    },
+    {
+        "id": 30,
+        "Team1": "Bay FC",
+        "ELO1": 981,
+        "Team2": "Seattle Reign",
+        "Elo2": 984,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 997,
+        "Elo2new": 967
+    },
+    {
+        "id": 36,
+        "Team1": "Seattle Reign",
+        "ELO1": 967,
+        "Team2": "Chicago Red Stars",
+        "Elo2": 1011,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 953,
+        "Elo2new": 1024
+    },
+    {
+        "id": 40,
+        "Team1": "North Carolina Courage",
+        "ELO1": 1009,
+        "Team2": "Seattle Reign",
+        "Elo2": 953,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1022,
+        "Elo2new": 939
+    },
+    {
+        "id": 49,
+        "Team1": "Seattle Reign",
+        "ELO1": 939,
+        "Team2": "San Diego Wave FC",
+        "Elo2": 1014,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 958,
+        "Elo2new": 994
+    },
+    {
+        "id": 56,
+        "Team1": "Seattle Reign",
+        "ELO1": 958,
+        "Team2": "Kansas City Current",
+        "Elo2": 1063,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 962,
+        "Elo2new": 1058
+    },
+    {
+        "id": 60,
+        "Team1": "Portland Thorns FC",
+        "ELO1": 1021,
+        "Team2": "Seattle Reign",
+        "Elo2": 962,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1034,
+        "Elo2new": 948
+    },
+    {
+        "id": 71,
+        "Team1": "Seattle Reign",
+        "ELO1": 948,
+        "Team2": "Orlando Pride",
+        "Elo2": 1083,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 937,
+        "Elo2new": 1093
+    },
+    {
+        "id": 74,
+        "Team1": "Washington Spirit",
+        "ELO1": 1051,
+        "Team2": "Seattle Reign",
+        "Elo2": 937,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1061,
+        "Elo2new": 926
+    }
+]

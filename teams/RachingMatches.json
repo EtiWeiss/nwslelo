@@ -1,0 +1,112 @@
+[
+    {
+        "id": 5,
+        "Team1": "Racing Louisville FC",
+        "ELO1": 1000,
+        "Team2": "Orlando Pride",
+        "Elo2": 1000,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 1000,
+        "Elo2new": 1000
+    },
+    {
+        "id": 14,
+        "Team1": "Houston Dash",
+        "ELO1": 984,
+        "Team2": "Racing Louisville FC",
+        "Elo2": 1000,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 984,
+        "Elo2new": 999
+    },
+    {
+        "id": 21,
+        "Team1": "Portland Thorns FC",
+        "ELO1": 968,
+        "Team2": "Racing Louisville FC",
+        "Elo2": 999,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 969,
+        "Elo2new": 997
+    },
+    {
+        "id": 27,
+        "Team1": "Racing Louisville FC",
+        "ELO1": 997,
+        "Team2": "San Diego Wave FC",
+        "Elo2": 1016,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 997,
+        "Elo2new": 1015
+    },
+    {
+        "id": 33,
+        "Team1": "Racing Louisville FC",
+        "ELO1": 997,
+        "Team2": "Utah Royals FC",
+        "Elo2": 969,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1011,
+        "Elo2new": 954
+    },
+    {
+        "id": 44,
+        "Team1": "NJ/NY Gotham FC",
+        "ELO1": 971,
+        "Team2": "Racing Louisville FC",
+        "Elo2": 1011,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 972,
+        "Elo2new": 1009
+    },
+    {
+        "id": 53,
+        "Team1": "Orlando Pride",
+        "ELO1": 1061,
+        "Team2": "Racing Louisville FC",
+        "Elo2": 1009,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1074,
+        "Elo2new": 995
+    },
+    {
+        "id": 58,
+        "Team1": "Racing Louisville FC",
+        "ELO1": 995,
+        "Team2": "Washington Spirit",
+        "Elo2": 1024,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 980,
+        "Elo2new": 1038
+    },
+    {
+        "id": 69,
+        "Team1": "Kansas City Current",
+        "ELO1": 1070,
+        "Team2": "Racing Louisville FC",
+        "Elo2": 980,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 1065,
+        "Elo2new": 984
+    },
+    {
+        "id": 76,
+        "Team1": "Chicago Red Stars",
+        "ELO1": 999,
+        "Team2": "Racing Louisville FC",
+        "Elo2": 984,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 982,
+        "Elo2new": 1000
+    }
+]

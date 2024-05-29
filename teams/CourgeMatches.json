@@ -1,0 +1,123 @@
+[
+    {
+        "id": 6,
+        "Team1": "North Carolina Courage",
+        "ELO1": 1000,
+        "Team2": "Houston Dash",
+        "Elo2": 1000,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1016,
+        "Elo2new": 984
+    },
+    {
+        "id": 11,
+        "Team1": "Utah Royals FC",
+        "ELO1": 984,
+        "Team2": "North Carolina Courage",
+        "Elo2": 1016,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1001,
+        "Elo2new": 998
+    },
+    {
+        "id": 20,
+        "Team1": "North Carolina Courage",
+        "ELO1": 998,
+        "Team2": "NJ/NY Gotham FC",
+        "Elo2": 1000,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1014,
+        "Elo2new": 983
+    },
+    {
+        "id": 26,
+        "Team1": "North Carolina Courage",
+        "ELO1": 1014,
+        "Team2": "Portland Thorns FC",
+        "Elo2": 969,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1027,
+        "Elo2new": 955
+    },
+    {
+        "id": 37,
+        "Team1": "Angel City FC",
+        "ELO1": 988,
+        "Team2": "North Carolina Courage",
+        "Elo2": 1027,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1005,
+        "Elo2new": 1009
+    },
+    {
+        "id": 40,
+        "Team1": "North Carolina Courage",
+        "ELO1": 1009,
+        "Team2": "Seattle Reign",
+        "Elo2": 953,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1022,
+        "Elo2new": 939
+    },
+    {
+        "id": 45,
+        "Team1": "Orlando Pride",
+        "ELO1": 1047,
+        "Team2": "North Carolina Courage",
+        "Elo2": 1022,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1061,
+        "Elo2new": 1007
+    },
+    {
+        "id": 50,
+        "Team1": "NJ/NY Gotham FC",
+        "ELO1": 972,
+        "Team2": "North Carolina Courage",
+        "Elo2": 1007,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 989,
+        "Elo2new": 989
+    },
+    {
+        "id": 62,
+        "Team1": "Kansas City Current",
+        "ELO1": 1058,
+        "Team2": "North Carolina Courage",
+        "Elo2": 989,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1070,
+        "Elo2new": 976
+    },
+    {
+        "id": 65,
+        "Team1": "North Carolina Courage",
+        "ELO1": 976,
+        "Team2": "Utah Royals FC",
+        "Elo2": 912,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 989,
+        "Elo2new": 898
+    },
+    {
+        "id": 75,
+        "Team1": "Houston DAsh",
+        "ELO1": 957,
+        "Team2": "North Carolina Courage",
+        "Elo2": 989,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 974,
+        "Elo2new": 971
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "id": 4,
+        "Team1": "Kansas City Current",
+        "ELO1": 1000,
+        "Team2": "Portland Thorns FC",
+        "Elo2": 1000,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1016,
+        "Elo2new": 984
+    },
+    {
+        "id": 16,
+        "Team1": "Portland Thorns FC",
+        "ELO1": 984,
+        "Team2": "NJ/NY Gotham FC",
+        "Elo2": 984,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 968,
+        "Elo2new": 1000
+    },
+    {
+        "id": 21,
+        "Team1": "Portland Thorns FC",
+        "ELO1": 968,
+        "Team2": "Racing Louisville FC",
+        "Elo2": 999,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 969,
+        "Elo2new": 997
+    },
+    {
+        "id": 26,
+        "Team1": "North Carolina Courage",
+        "ELO1": 1014,
+        "Team2": "Portland Thorns FC",
+        "Elo2": 969,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1027,
+        "Elo2new": 955
+    },
+    {
+        "id": 35,
+        "Team1": "Portland Thorns FC",
+        "ELO1": 955,
+        "Team2": "Houston Dash",
+        "Elo2": 984,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 972,
+        "Elo2new": 966
+    },
+    {
+        "id": 41,
+        "Team1": "Chicago Red Stars",
+        "ELO1": 1024,
+        "Team2": "Portland Thorns FC",
+        "Elo2": 972,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 1005,
+        "Elo2new": 990
+    },
+    {
+        "id": 47,
+        "Team1": "Bay FC",
+        "ELO1": 967,
+        "Team2": "Portland Thorns FC",
+        "Elo2": 990,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 952,
+        "Elo2new": 1004
+    },
+    {
+        "id": 51,
+        "Team1": "Portland Thorns FC",
+        "ELO1": 1004,
+        "Team2": "Washington Spirit",
+        "Elo2": 1042,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1021,
+        "Elo2new": 1024
+    },
+    {
+        "id": 60,
+        "Team1": "Portland Thorns FC",
+        "ELO1": 1021,
+        "Team2": "Seattle Reign",
+        "Elo2": 962,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1034,
+        "Elo2new": 948
+    },
+    {
+        "id": 66,
+        "Team1": "Houston Dash",
+        "ELO1": 971,
+        "Team2": "Portland Thorns FC",
+        "Elo2": 1034,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 957,
+        "Elo2new": 1047
+    },
+    {
+        "id": 73,
+        "Team1": "Orlando Pride",
+        "ELO1": 1093,
+        "Team2": "Portland Thorns FC",
+        "Elo2": 1047,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1106,
+        "Elo2new": 1033
+    }
+]

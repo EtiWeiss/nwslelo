@@ -1,0 +1,123 @@
+[
+    {
+        "id": 7,
+        "Team1": "Utah Royals FC",
+        "ELO1": 1000,
+        "Team2": "Chicago Red Stars",
+        "Elo2": 1000,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 984,
+        "Elo2new": 1016
+    },
+    {
+        "id": 11,
+        "Team1": "Utah Royals FC",
+        "ELO1": 984,
+        "Team2": "North Carolina Courage",
+        "Elo2": 1016,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1001,
+        "Elo2new": 998
+    },
+    {
+        "id": 23,
+        "Team1": "Washington Spirit",
+        "ELO1": 1001,
+        "Team2": "Utah Royals FC",
+        "Elo2": 1001,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1017,
+        "Elo2new": 985
+    },
+    {
+        "id": 25,
+        "Team1": "Utah Royals FC",
+        "ELO1": 985,
+        "Team2": "Orlando Pride",
+        "Elo2": 1000,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 969,
+        "Elo2new": 1015
+    },
+    {
+        "id": 33,
+        "Team1": "Racing Louisville FC",
+        "ELO1": 997,
+        "Team2": "Utah Royals FC",
+        "Elo2": 969,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1011,
+        "Elo2new": 954
+    },
+    {
+        "id": 42,
+        "Team1": "Utah Royals FC",
+        "ELO1": 954,
+        "Team2": "Houston Dash",
+        "Elo2": 966,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 954,
+        "Elo2new": 965
+    },
+    {
+        "id": 48,
+        "Team1": "Utah Royals FC",
+        "ELO1": 954,
+        "Team2": "Angel City FC",
+        "Elo2": 991,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 939,
+        "Elo2new": 1005
+    },
+    {
+        "id": 57,
+        "Team1": "San Diego Wave FC",
+        "ELO1": 994,
+        "Team2": "Utah Royals FC",
+        "Elo2": 939,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1007,
+        "Elo2new": 925
+    },
+    {
+        "id": 61,
+        "Team1": "Chicago Red Stars",
+        "ELO1": 1004,
+        "Team2": "Utah Royals FC",
+        "Elo2": 925,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1016,
+        "Elo2new": 912
+    },
+    {
+        "id": 65,
+        "Team1": "North Carolina Courage",
+        "ELO1": 976,
+        "Team2": "Utah Royals FC",
+        "Elo2": 912,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 989,
+        "Elo2new": 898
+    },
+    {
+        "id": 77,
+        "Team1": "Utah Royals FC",
+        "ELO1": 898,
+        "Team2": "Kansas City Current",
+        "Elo2": 1065,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 889,
+        "Elo2new": 1073
+    }
+]
