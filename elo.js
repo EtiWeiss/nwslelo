@@ -6,7 +6,7 @@ fetch('output.json')
       const row = document.createElement('tr');
       row.innerHTML = `
         <td><a href="${item.link}">${item.Team}</a></td>
-        <td>${item.elo}</td>
+        <td>${item.ELO}</td>
       `;
       tableBody.appendChild(row);
     });
