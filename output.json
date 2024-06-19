@@ -1,72 +1,86 @@
 [
     {
-        "link": "teams/orlando.html",
-        "team": "Orlando Pride",
-        "elo": 1106
+        "ID": 7,
+        "Team": "Orlando Pride",
+        "ELO": 1088,
+        "link": "teams/orlando.html"
     },
     {
-        "link": "teams/current.html",
-        "team": "Kansas City Current",
-        "elo": 1073
+        "ID": 4,
+        "Team": "Kansas City Current",
+        "ELO": 1076,
+        "link": "teams/current.html"
     },
     {
-        "link": "teams/washington.html",
-        "team": "Washington Spirit",
-        "elo": 1061
+        "ID": 13,
+        "Team": "Washington Spirit",
+        "ELO": 1065,
+        "link": "teams/washington.html"
     },
     {
-        "link": "teams/portland.html",
-        "team": "Portland Thorns FC",
-        "elo": 1033
+        "ID": 5,
+        "Team": "NJ/NY Gotham FC",
+        "ELO": 1048,
+        "link": "teams/gotham.html"
     },
     {
-        "link": "teams/gotham.html",
-        "team": "NJ/NY Gotham FC",
-        "elo": 1020
+        "ID": 8,
+        "Team": "Portland Thorns FC",
+        "ELO": 1040,
+        "link": "teams/portland.html"
     },
     {
-        "link": "teams/louisville.html",
-        "team": "Racing Louisville FC",
-        "elo": 1000
+        "ID": 3,
+        "Team": "Houston Dash",
+        "ELO": 1011,
+        "link": "teams/houston.html"
     },
     {
-        "link": "teams/sandiego.html",
-        "team": "San Diego Wave FC",
-        "elo": 985
+        "ID": 9,
+        "Team": "Racing Louisville FC",
+        "ELO": 1011,
+        "link": "teams/louisville.html"
     },
     {
-        "link": "teams/chicago.html",
-        "team": "Chicago Red Stars",
-        "elo": 982
+        "ID": 10,
+        "Team": "San Diego Wave FC",
+        "ELO": 997,
+        "link": "teams/sandiego.html"
     },
     {
-        "link": "teams/houston.html",
-        "team": "Houston Dash",
-        "elo": 974
+        "ID": 2,
+        "Team": "Chicago Red Stars",
+        "ELO": 969,
+        "link": "teams/chicago.html"
     },
     {
-        "link": "teams/angelcity.html",
-        "team": "Angel City FC",
-        "elo": 972
+        "ID": 6,
+        "Team": "North Carolina Courage",
+        "ELO": 963,
+        "link": "teams/courage.html"
     },
     {
-        "link": "teams/courage.html",
-        "team": "North Carolina Courage",
-        "elo": 971
+        "ID": 0,
+        "Team": "Angel City FC",
+        "ELO": 960,
+        "link": "teams/angelcity.html"
     },
     {
-        "link": "teams/bayfc.html",
-        "team": "Bay FC",
-        "elo": 946
+        "ID": 1,
+        "Team": "Bay FC",
+        "ELO": 943,
+        "link": "teams/bayfc.html"
     },
     {
-        "link": "teams/seattle.html",
-        "team": "Seattle Reign",
-        "elo": 926
+        "ID": 11,
+        "Team": "Seattle Reign",
+        "ELO": 921,
+        "link": "teams/seattle.html"
     },
     {
-        "link": "teams/utah.html",
-        "team": "Utah Royals FC",
-        "elo": 889
+        "ID": 12,
+        "Team": "Utah Royals FC",
+        "ELO": 899,
+        "link": "teams/utah.html"
     }
 ]

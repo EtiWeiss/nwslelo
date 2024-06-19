@@ -17,6 +17,21 @@ def get_elo(team):
     conn.close()
     return elo
 
+def get_id():
+    conn = mysql.connector.connect(
+        host="127.0.0.1",
+        user="root",
+        password="iTTia1!Rd",
+        database="nwslelo"
+    )
+    cursor = conn.cursor()
+    query = "SELECT MAX(id) FROM nwslelo.matchups"
+    cursor.execute(query,)
+    id = cursor.fetchone()[0]
+    cursor.close()
+    conn.close()
+    return id
+
 def update_elo(elo, team):
     conn = mysql.connector.connect(
         host="127.0.0.1",
@@ -31,7 +46,7 @@ def update_elo(elo, team):
     cursor.close()
     conn.close()
 
-def update_matchups(Team1,ELO1,Team2,Elo2,Result1,Result2,Elo1new,Elo2new):
+def update_matchups(id,Team1,ELO1,Team2,Elo2,Result1,Result2,Elo1new,Elo2new):
     conn = mysql.connector.connect(
         host="127.0.0.1",
         user="root",
@@ -39,8 +54,8 @@ def update_matchups(Team1,ELO1,Team2,Elo2,Result1,Result2,Elo1new,Elo2new):
         database="nwslelo"
     )
     cursor = conn.cursor()
-    query = "INSERT INTO nwslelo.matchups VALUE(%s,%s,%s,%s,%s,%s,%s,%s)"
-    cursor.execute(query, (Team1,ELO1,Team2,Elo2,Result1,Result2,Elo1new,Elo2new))
+    query = "INSERT INTO nwslelo.matchups VALUE(%s,%s,%s,%s,%s,%s,%s,%s,%s)"
+    cursor.execute(query, (id,Team1,ELO1,Team2,Elo2,Result1,Result2,Elo1new,Elo2new))
     conn.commit()
     cursor.close()
     conn.close()
@@ -93,7 +108,8 @@ commit = input('Is this correct? Y/N: ')
 if commit == 'Y':
     update_elo(elo1new,team1) #update elo
     update_elo(elo2new,team2) #update elo
-    update_matchups(team1,elo_not1,team2,elo_not2,result1,result2,elo1new,elo2new) #update matchup
+    id = get_id() + 1
+    update_matchups(id,team1,elo_not1,team2,elo_not2,result1,result2,elo1new,elo2new) #update matchup
     write_json() #outputs to json file, picked up by js to html
     print('Elo has been updated!')
 else:
