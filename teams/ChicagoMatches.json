@@ -119,5 +119,27 @@
         "Result2": 1.0,
         "Elo1new": 982,
         "Elo2new": 1000
+    },
+    {
+        "id": 81,
+        "Team1": "Chicago Red Stars",
+        "ELO1": 982,
+        "Team2": "Bay FC",
+        "Elo2": 946,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 964,
+        "Elo2new": 963
+    },
+    {
+        "id": 85,
+        "Team1": "Kansas City Current",
+        "ELO1": 1082,
+        "Team2": "Chicago Red Stars",
+        "Elo2": 964,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 1076,
+        "Elo2new": 969
     }
 ]

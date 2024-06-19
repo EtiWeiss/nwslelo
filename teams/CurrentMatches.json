@@ -119,5 +119,27 @@
         "Result2": 1.0,
         "Elo1new": 889,
         "Elo2new": 1073
+    },
+    {
+        "id": 84,
+        "Team1": "Kansas City Current",
+        "ELO1": 1073,
+        "Team2": "Seattle Reign",
+        "Elo2": 926,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1082,
+        "Elo2new": 916
+    },
+    {
+        "id": 85,
+        "Team1": "Kansas City Current",
+        "ELO1": 1082,
+        "Team2": "Chicago Red Stars",
+        "Elo2": 964,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 1076,
+        "Elo2new": 969
     }
 ]

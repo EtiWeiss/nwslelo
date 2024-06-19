@@ -119,5 +119,27 @@
         "Result2": 0.5,
         "Elo1new": 972,
         "Elo2new": 985
+    },
+    {
+        "id": 79,
+        "Team1": "San Diego Wave FC",
+        "ELO1": 990,
+        "Team2": "Orlando Pride",
+        "Elo2": 1100,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 994,
+        "Elo2new": 1095
+    },
+    {
+        "id": 87,
+        "Team1": "Washington Spirit",
+        "ELO1": 1069,
+        "Team2": "San Diego Wave FC",
+        "Elo2": 994,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 1065,
+        "Elo2new": 997
     }
 ]

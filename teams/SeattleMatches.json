@@ -119,5 +119,27 @@
         "Result2": 0.0,
         "Elo1new": 1061,
         "Elo2new": 926
+    },
+    {
+        "id": 84,
+        "Team1": "Kansas City Current",
+        "ELO1": 1073,
+        "Team2": "Seattle Reign",
+        "Elo2": 926,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1082,
+        "Elo2new": 916
+    },
+    {
+        "id": 90,
+        "Team1": "Seattle Reign",
+        "ELO1": 916,
+        "Team2": "Portland Thorns FC",
+        "Elo2": 1046,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 921,
+        "Elo2new": 1040
     }
 ]

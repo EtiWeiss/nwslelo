@@ -108,5 +108,27 @@
         "Result2": 0.5,
         "Elo1new": 972,
         "Elo2new": 985
+    },
+    {
+        "id": 80,
+        "Team1": "NJ/NY Gotham FC",
+        "ELO1": 1020,
+        "Team2": "Angel City FC",
+        "Elo2": 972,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1033,
+        "Elo2new": 958
+    },
+    {
+        "id": 89,
+        "Team1": "Houston Dash",
+        "ELO1": 1014,
+        "Team2": "Angel City FC",
+        "Elo2": 958,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 1011,
+        "Elo2new": 960
     }
 ]

@@ -108,5 +108,27 @@
         "Result2": 0.0,
         "Elo1new": 946,
         "Elo2new": 986
+    },
+    {
+        "id": 81,
+        "Team1": "Chicago Red Stars",
+        "ELO1": 982,
+        "Team2": "Bay FC",
+        "Elo2": 946,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 964,
+        "Elo2new": 963
+    },
+    {
+        "id": 91,
+        "Team1": "Bay Fc",
+        "ELO1": 963,
+        "Team2": "Utah Royals FC",
+        "Elo2": 880,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 943,
+        "Elo2new": 899
     }
 ]

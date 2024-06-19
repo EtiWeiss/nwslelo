@@ -108,5 +108,27 @@
         "Result2": 1.0,
         "Elo1new": 982,
         "Elo2new": 1000
+    },
+    {
+        "id": 78,
+        "Team1": "Racing Louisville FC",
+        "ELO1": 1014,
+        "Team2": "Houston Dash",
+        "Elo2": 959,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1027,
+        "Elo2new": 945
+    },
+    {
+        "id": 86,
+        "Team1": "Racing Louisville FC",
+        "ELO1": 1027,
+        "Team2": "NJ/NY Gotham FC",
+        "Elo2": 1033,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 1011,
+        "Elo2new": 1048
     }
 ]

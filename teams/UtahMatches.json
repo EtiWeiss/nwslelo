@@ -119,5 +119,27 @@
         "Result2": 1.0,
         "Elo1new": 889,
         "Elo2new": 1073
+    },
+    {
+        "id": 82,
+        "Team1": "Utah Royals FC",
+        "ELO1": 889,
+        "Team2": "Washington Spirit",
+        "Elo2": 1061,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 880,
+        "Elo2new": 1069
+    },
+    {
+        "id": 91,
+        "Team1": "Bay Fc",
+        "ELO1": 963,
+        "Team2": "Utah Royals FC",
+        "Elo2": 880,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 943,
+        "Elo2new": 899
     }
 ]
