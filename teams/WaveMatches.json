@@ -141,5 +141,16 @@
         "Result2": 0.5,
         "Elo1new": 1065,
         "Elo2new": 997
+    },
+    {
+        "id": 92,
+        "Team1": "NJ/NY Gotham FC",
+        "ELO1": 1048,
+        "Team2": "San Diego Wave FC",
+        "Elo2": 997,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1061,
+        "Elo2new": 983
     }
 ]
