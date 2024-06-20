@@ -1,6 +1,6 @@
 [
     {
-        "id": 5,
+        "id": 3,
         "Team1": "Racing Louisville FC",
         "ELO1": 1000,
         "Team2": "Orlando Pride",
@@ -11,7 +11,7 @@
         "Elo2new": 1000
     },
     {
-        "id": 14,
+        "id": 12,
         "Team1": "Houston Dash",
         "ELO1": 984,
         "Team2": "Racing Louisville FC",
@@ -22,7 +22,7 @@
         "Elo2new": 999
     },
     {
-        "id": 21,
+        "id": 19,
         "Team1": "Portland Thorns FC",
         "ELO1": 968,
         "Team2": "Racing Louisville FC",
@@ -33,7 +33,7 @@
         "Elo2new": 997
     },
     {
-        "id": 27,
+        "id": 25,
         "Team1": "Racing Louisville FC",
         "ELO1": 997,
         "Team2": "San Diego Wave FC",
@@ -44,7 +44,7 @@
         "Elo2new": 1015
     },
     {
-        "id": 33,
+        "id": 31,
         "Team1": "Racing Louisville FC",
         "ELO1": 997,
         "Team2": "Utah Royals FC",
@@ -55,7 +55,7 @@
         "Elo2new": 954
     },
     {
-        "id": 44,
+        "id": 42,
         "Team1": "NJ/NY Gotham FC",
         "ELO1": 971,
         "Team2": "Racing Louisville FC",
@@ -66,7 +66,7 @@
         "Elo2new": 1009
     },
     {
-        "id": 53,
+        "id": 51,
         "Team1": "Orlando Pride",
         "ELO1": 1061,
         "Team2": "Racing Louisville FC",
@@ -77,7 +77,7 @@
         "Elo2new": 995
     },
     {
-        "id": 58,
+        "id": 56,
         "Team1": "Racing Louisville FC",
         "ELO1": 995,
         "Team2": "Washington Spirit",
@@ -88,7 +88,7 @@
         "Elo2new": 1038
     },
     {
-        "id": 69,
+        "id": 67,
         "Team1": "Kansas City Current",
         "ELO1": 1070,
         "Team2": "Racing Louisville FC",
@@ -99,7 +99,7 @@
         "Elo2new": 984
     },
     {
-        "id": 76,
+        "id": 74,
         "Team1": "Chicago Red Stars",
         "ELO1": 999,
         "Team2": "Racing Louisville FC",
@@ -110,7 +110,7 @@
         "Elo2new": 1000
     },
     {
-        "id": 78,
+        "id": 76,
         "Team1": "Racing Louisville FC",
         "ELO1": 1014,
         "Team2": "Houston Dash",
@@ -121,7 +121,7 @@
         "Elo2new": 945
     },
     {
-        "id": 86,
+        "id": 84,
         "Team1": "Racing Louisville FC",
         "ELO1": 1027,
         "Team2": "NJ/NY Gotham FC",
@@ -132,7 +132,7 @@
         "Elo2new": 1048
     },
     {
-        "id": 93,
+        "id": 91,
         "Team1": "Angel City FC",
         "ELO1": 957,
         "Team2": "Racing Louisville FC",

@@ -1,6 +1,6 @@
 [
     {
-        "id": 7,
+        "id": 5,
         "Team1": "Utah Royals FC",
         "ELO1": 1000,
         "Team2": "Chicago Red Stars",
@@ -11,7 +11,7 @@
         "Elo2new": 1016
     },
     {
-        "id": 11,
+        "id": 9,
         "Team1": "Utah Royals FC",
         "ELO1": 984,
         "Team2": "North Carolina Courage",
@@ -22,7 +22,7 @@
         "Elo2new": 998
     },
     {
-        "id": 23,
+        "id": 21,
         "Team1": "Washington Spirit",
         "ELO1": 1001,
         "Team2": "Utah Royals FC",
@@ -33,7 +33,7 @@
         "Elo2new": 985
     },
     {
-        "id": 25,
+        "id": 23,
         "Team1": "Utah Royals FC",
         "ELO1": 985,
         "Team2": "Orlando Pride",
@@ -44,7 +44,7 @@
         "Elo2new": 1015
     },
     {
-        "id": 33,
+        "id": 31,
         "Team1": "Racing Louisville FC",
         "ELO1": 997,
         "Team2": "Utah Royals FC",
@@ -55,7 +55,7 @@
         "Elo2new": 954
     },
     {
-        "id": 42,
+        "id": 40,
         "Team1": "Utah Royals FC",
         "ELO1": 954,
         "Team2": "Houston Dash",
@@ -66,7 +66,7 @@
         "Elo2new": 965
     },
     {
-        "id": 48,
+        "id": 46,
         "Team1": "Utah Royals FC",
         "ELO1": 954,
         "Team2": "Angel City FC",
@@ -77,7 +77,7 @@
         "Elo2new": 1005
     },
     {
-        "id": 57,
+        "id": 55,
         "Team1": "San Diego Wave FC",
         "ELO1": 994,
         "Team2": "Utah Royals FC",
@@ -88,7 +88,7 @@
         "Elo2new": 925
     },
     {
-        "id": 61,
+        "id": 59,
         "Team1": "Chicago Red Stars",
         "ELO1": 1004,
         "Team2": "Utah Royals FC",
@@ -99,7 +99,7 @@
         "Elo2new": 912
     },
     {
-        "id": 65,
+        "id": 63,
         "Team1": "North Carolina Courage",
         "ELO1": 976,
         "Team2": "Utah Royals FC",
@@ -110,7 +110,7 @@
         "Elo2new": 898
     },
     {
-        "id": 77,
+        "id": 75,
         "Team1": "Utah Royals FC",
         "ELO1": 898,
         "Team2": "Kansas City Current",
@@ -121,7 +121,7 @@
         "Elo2new": 1073
     },
     {
-        "id": 82,
+        "id": 80,
         "Team1": "Utah Royals FC",
         "ELO1": 889,
         "Team2": "Washington Spirit",
@@ -132,7 +132,7 @@
         "Elo2new": 1069
     },
     {
-        "id": 91,
+        "id": 89,
         "Team1": "Bay FC",
         "ELO1": 963,
         "Team2": "Utah Royals FC",

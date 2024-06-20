@@ -1,6 +1,6 @@
 [
     {
-        "id": 9,
+        "id": 7,
         "Team1": "Angel City FC",
         "ELO1": 1000,
         "Team2": "Bay FC",
@@ -11,7 +11,7 @@
         "Elo2new": 1016
     },
     {
-        "id": 10,
+        "id": 8,
         "Team1": "Orlando Pride",
         "ELO1": 1000,
         "Team2": "Angel City FC",
@@ -22,7 +22,7 @@
         "Elo2new": 984
     },
     {
-        "id": 19,
+        "id": 17,
         "Team1": "Kansas City Current",
         "ELO1": 1032,
         "Team2": "Angel City FC",
@@ -33,7 +33,7 @@
         "Elo2new": 970
     },
     {
-        "id": 28,
+        "id": 26,
         "Team1": "Chicago Red Stars",
         "ELO1": 1030,
         "Team2": "Angel City FC",
@@ -44,7 +44,7 @@
         "Elo2new": 988
     },
     {
-        "id": 37,
+        "id": 35,
         "Team1": "Angel City FC",
         "ELO1": 988,
         "Team2": "North Carolina Courage",
@@ -55,7 +55,7 @@
         "Elo2new": 1009
     },
     {
-        "id": 39,
+        "id": 37,
         "Team1": "Kansas City Current",
         "ELO1": 1055,
         "Team2": "Angel City FC",
@@ -66,7 +66,7 @@
         "Elo2new": 991
     },
     {
-        "id": 48,
+        "id": 46,
         "Team1": "Utah Royals FC",
         "ELO1": 954,
         "Team2": "Angel City FC",
@@ -77,7 +77,7 @@
         "Elo2new": 1005
     },
     {
-        "id": 64,
+        "id": 62,
         "Team1": "Angel City FC",
         "ELO1": 1005,
         "Team2": "Houston Dash",
@@ -88,7 +88,7 @@
         "Elo2new": 971
     },
     {
-        "id": 68,
+        "id": 66,
         "Team1": "Washington Spirit",
         "ELO1": 1038,
         "Team2": "Angel City FC",
@@ -99,7 +99,7 @@
         "Elo2new": 972
     },
     {
-        "id": 72,
+        "id": 70,
         "Team1": "Angel City FC",
         "ELO1": 972,
         "Team2": "San Diego Wave FC",
@@ -110,7 +110,7 @@
         "Elo2new": 985
     },
     {
-        "id": 80,
+        "id": 78,
         "Team1": "NJ/NY Gotham FC",
         "ELO1": 1020,
         "Team2": "Angel City FC",
@@ -121,7 +121,7 @@
         "Elo2new": 958
     },
     {
-        "id": 89,
+        "id": 87,
         "Team1": "Houston Dash",
         "ELO1": 945,
         "Team2": "Angel City FC",
@@ -132,7 +132,7 @@
         "Elo2new": 957
     },
     {
-        "id": 93,
+        "id": 91,
         "Team1": "Angel City FC",
         "ELO1": 957,
         "Team2": "Racing Louisville FC",

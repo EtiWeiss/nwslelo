@@ -1,6 +1,6 @@
 [
     {
-        "id": 4,
+        "id": 2,
         "Team1": "Kansas City Current",
         "ELO1": 1000,
         "Team2": "Portland Thorns FC",
@@ -11,7 +11,7 @@
         "Elo2new": 984
     },
     {
-        "id": 16,
+        "id": 14,
         "Team1": "Portland Thorns FC",
         "ELO1": 984,
         "Team2": "NJ/NY Gotham FC",
@@ -22,7 +22,7 @@
         "Elo2new": 1000
     },
     {
-        "id": 21,
+        "id": 19,
         "Team1": "Portland Thorns FC",
         "ELO1": 968,
         "Team2": "Racing Louisville FC",
@@ -33,7 +33,7 @@
         "Elo2new": 997
     },
     {
-        "id": 26,
+        "id": 24,
         "Team1": "North Carolina Courage",
         "ELO1": 1014,
         "Team2": "Portland Thorns FC",
@@ -44,7 +44,7 @@
         "Elo2new": 955
     },
     {
-        "id": 35,
+        "id": 33,
         "Team1": "Portland Thorns FC",
         "ELO1": 955,
         "Team2": "Houston Dash",
@@ -55,7 +55,7 @@
         "Elo2new": 966
     },
     {
-        "id": 41,
+        "id": 39,
         "Team1": "Chicago Red Stars",
         "ELO1": 1024,
         "Team2": "Portland Thorns FC",
@@ -66,7 +66,7 @@
         "Elo2new": 990
     },
     {
-        "id": 47,
+        "id": 45,
         "Team1": "Bay FC",
         "ELO1": 967,
         "Team2": "Portland Thorns FC",
@@ -77,7 +77,7 @@
         "Elo2new": 1004
     },
     {
-        "id": 51,
+        "id": 49,
         "Team1": "Portland Thorns FC",
         "ELO1": 1004,
         "Team2": "Washington Spirit",
@@ -88,7 +88,7 @@
         "Elo2new": 1024
     },
     {
-        "id": 60,
+        "id": 58,
         "Team1": "Portland Thorns FC",
         "ELO1": 1021,
         "Team2": "Seattle Reign",
@@ -99,7 +99,7 @@
         "Elo2new": 948
     },
     {
-        "id": 66,
+        "id": 64,
         "Team1": "Houston Dash",
         "ELO1": 971,
         "Team2": "Portland Thorns FC",
@@ -110,7 +110,7 @@
         "Elo2new": 1047
     },
     {
-        "id": 73,
+        "id": 71,
         "Team1": "Orlando Pride",
         "ELO1": 1093,
         "Team2": "Portland Thorns FC",
@@ -121,7 +121,7 @@
         "Elo2new": 1033
     },
     {
-        "id": 83,
+        "id": 81,
         "Team1": "Portland Thorns FC",
         "ELO1": 1033,
         "Team2": "North Carolina Courage",
@@ -132,7 +132,7 @@
         "Elo2new": 957
     },
     {
-        "id": 90,
+        "id": 88,
         "Team1": "Seattle Reign",
         "ELO1": 916,
         "Team2": "Portland Thorns FC",

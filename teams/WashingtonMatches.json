@@ -1,6 +1,6 @@
 [
     {
-        "id": 8,
+        "id": 6,
         "Team1": "Seattle Reign",
         "ELO1": 1000,
         "Team2": "Washington Spirit",
@@ -11,7 +11,7 @@
         "Elo2new": 984
     },
     {
-        "id": 13,
+        "id": 11,
         "Team1": "Washington Spirit",
         "ELO1": 984,
         "Team2": "Bay FC",
@@ -22,7 +22,7 @@
         "Elo2new": 998
     },
     {
-        "id": 23,
+        "id": 21,
         "Team1": "Washington Spirit",
         "ELO1": 1001,
         "Team2": "Utah Royals FC",
@@ -33,7 +33,7 @@
         "Elo2new": 985
     },
     {
-        "id": 24,
+        "id": 22,
         "Team1": "Houston Dash",
         "ELO1": 1000,
         "Team2": "Washington Spirit",
@@ -44,7 +44,7 @@
         "Elo2new": 1032
     },
     {
-        "id": 32,
+        "id": 30,
         "Team1": "Washington Spirit",
         "ELO1": 1032,
         "Team2": "NJ/NY Gotham FC",
@@ -55,7 +55,7 @@
         "Elo2new": 971
     },
     {
-        "id": 38,
+        "id": 36,
         "Team1": "Washington Spirit",
         "ELO1": 1045,
         "Team2": "Orlando Pride",
@@ -66,7 +66,7 @@
         "Elo2new": 1047
     },
     {
-        "id": 46,
+        "id": 44,
         "Team1": "Chicago Red Stars",
         "ELO1": 1005,
         "Team2": "Washington Spirit",
@@ -77,7 +77,7 @@
         "Elo2new": 1042
     },
     {
-        "id": 51,
+        "id": 49,
         "Team1": "Portland Thorns FC",
         "ELO1": 1004,
         "Team2": "Washington Spirit",
@@ -88,7 +88,7 @@
         "Elo2new": 1024
     },
     {
-        "id": 58,
+        "id": 56,
         "Team1": "Racing Louisville FC",
         "ELO1": 995,
         "Team2": "Washington Spirit",
@@ -99,7 +99,7 @@
         "Elo2new": 1038
     },
     {
-        "id": 68,
+        "id": 66,
         "Team1": "Washington Spirit",
         "ELO1": 1038,
         "Team2": "Angel City FC",
@@ -110,7 +110,7 @@
         "Elo2new": 972
     },
     {
-        "id": 74,
+        "id": 72,
         "Team1": "Washington Spirit",
         "ELO1": 1051,
         "Team2": "Seattle Reign",
@@ -121,7 +121,7 @@
         "Elo2new": 926
     },
     {
-        "id": 82,
+        "id": 80,
         "Team1": "Utah Royals FC",
         "ELO1": 889,
         "Team2": "Washington Spirit",
@@ -132,7 +132,7 @@
         "Elo2new": 1069
     },
     {
-        "id": 87,
+        "id": 85,
         "Team1": "Washington Spirit",
         "ELO1": 1069,
         "Team2": "San Diego Wave FC",
