@@ -30,15 +30,9 @@
         "link": "teams/portland.html"
     },
     {
-        "ID": 3,
-        "Team": "Houston Dash",
-        "ELO": 1011,
-        "link": "teams/houston.html"
-    },
-    {
         "ID": 9,
         "Team": "Racing Louisville FC",
-        "ELO": 1011,
+        "ELO": 992,
         "link": "teams/louisville.html"
     },
     {
@@ -46,6 +40,12 @@
         "Team": "San Diego Wave FC",
         "ELO": 983,
         "link": "teams/sandiego.html"
+    },
+    {
+        "ID": 0,
+        "Team": "Angel City FC",
+        "ELO": 975,
+        "link": "teams/angelcity.html"
     },
     {
         "ID": 2,
@@ -60,10 +60,10 @@
         "link": "teams/courage.html"
     },
     {
-        "ID": 0,
-        "Team": "Angel City FC",
-        "ELO": 960,
-        "link": "teams/angelcity.html"
+        "ID": 3,
+        "Team": "Houston Dash",
+        "ELO": 945,
+        "link": "teams/houston.html"
     },
     {
         "ID": 1,

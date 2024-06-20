@@ -130,5 +130,16 @@
         "Result2": 1.0,
         "Elo1new": 1011,
         "Elo2new": 1048
+    },
+    {
+        "id": 93,
+        "Team1": "Angel City FC",
+        "ELO1": 957,
+        "Team2": "Racing Louisville FC",
+        "Elo2": 1011,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 975,
+        "Elo2new": 992
     }
 ]

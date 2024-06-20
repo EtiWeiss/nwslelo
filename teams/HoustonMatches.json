@@ -111,7 +111,7 @@
     },
     {
         "id": 75,
-        "Team1": "Houston DAsh",
+        "Team1": "Houston Dash",
         "ELO1": 957,
         "Team2": "North Carolina Courage",
         "Elo2": 989,
@@ -134,12 +134,12 @@
     {
         "id": 89,
         "Team1": "Houston Dash",
-        "ELO1": 1014,
+        "ELO1": 945,
         "Team2": "Angel City FC",
         "Elo2": 958,
         "Result1": 0.5,
         "Result2": 0.5,
-        "Elo1new": 1011,
-        "Elo2new": 960
+        "Elo1new": 945,
+        "Elo2new": 957
     }
 ]
