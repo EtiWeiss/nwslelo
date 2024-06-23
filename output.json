@@ -2,7 +2,7 @@
     {
         "ID": 7,
         "Team": "Orlando Pride",
-        "ELO": 1088,
+        "ELO": 1096,
         "link": "teams/orlando.html"
     },
     {
@@ -38,7 +38,7 @@
     {
         "ID": 10,
         "Team": "San Diego Wave FC",
-        "ELO": 983,
+        "ELO": 981,
         "link": "teams/sandiego.html"
     },
     {
@@ -62,7 +62,7 @@
     {
         "ID": 3,
         "Team": "Houston Dash",
-        "ELO": 945,
+        "ELO": 946,
         "link": "teams/houston.html"
     },
     {
@@ -80,7 +80,7 @@
     {
         "ID": 12,
         "Team": "Utah Royals FC",
-        "ELO": 899,
+        "ELO": 890,
         "link": "teams/utah.html"
     }
 ]
