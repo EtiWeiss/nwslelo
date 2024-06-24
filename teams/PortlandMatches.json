@@ -141,5 +141,16 @@
         "Result2": 0.5,
         "Elo1new": 921,
         "Elo2new": 1040
+    },
+    {
+        "id": 95,
+        "Team1": "Portland Thorns FC",
+        "ELO1": 1040,
+        "Team2": "Kansas City Current",
+        "Elo2": 1076,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 1025,
+        "Elo2new": 1090
     }
 ]

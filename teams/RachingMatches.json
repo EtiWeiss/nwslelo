@@ -141,5 +141,16 @@
         "Result2": 0.0,
         "Elo1new": 975,
         "Elo2new": 992
+    },
+    {
+        "id": 97,
+        "Team1": "Seattle Reign",
+        "ELO1": 921,
+        "Team2": "Racing Louisville FC",
+        "Elo2": 992,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 924,
+        "Elo2new": 988
     }
 ]

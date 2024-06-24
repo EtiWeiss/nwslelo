@@ -130,5 +130,16 @@
         "Result2": 1.0,
         "Elo1new": 943,
         "Elo2new": 899
+    },
+    {
+        "id": 94,
+        "Team1": "Bay FC",
+        "ELO1": 943,
+        "Team2": "Angel City FC",
+        "Elo2": 975,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 960,
+        "Elo2new": 957
     }
 ]

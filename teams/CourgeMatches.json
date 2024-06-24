@@ -141,5 +141,16 @@
         "Result2": 0.5,
         "Elo1new": 963,
         "Elo2new": 1088
+    },
+    {
+        "id": 96,
+        "Team1": "North Carolina Courage",
+        "ELO1": 963,
+        "Team2": "Chicago Red Stars",
+        "Elo2": 969,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 979,
+        "Elo2new": 952
     }
 ]
