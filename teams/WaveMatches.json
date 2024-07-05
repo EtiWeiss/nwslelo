@@ -163,5 +163,16 @@
         "Result2": 0.5,
         "Elo1new": 946,
         "Elo2new": 981
+    },
+    {
+        "id": 100,
+        "Team1": "San Diego Wave FC",
+        "ELO1": 981,
+        "Team2": "Chicago Red Stars",
+        "Elo2": 952,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 963,
+        "Elo2new": 969
     }
 ]

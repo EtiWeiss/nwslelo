@@ -152,5 +152,16 @@
         "Result2": 0.0,
         "Elo1new": 1096,
         "Elo2new": 890
+    },
+    {
+        "id": 103,
+        "Team1": "Utah Royals FC",
+        "ELO1": 890,
+        "Team2": "Portland Thorns FC",
+        "Elo2": 1025,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 895,
+        "Elo2new": 1019
     }
 ]

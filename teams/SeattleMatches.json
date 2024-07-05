@@ -152,5 +152,16 @@
         "Result2": 0.5,
         "Elo1new": 924,
         "Elo2new": 988
+    },
+    {
+        "id": 104,
+        "Team1": "NJ/NY Gotham FC",
+        "ELO1": 1045,
+        "Team2": "Seattle Reign",
+        "Elo2": 924,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 1039,
+        "Elo2new": 929
     }
 ]

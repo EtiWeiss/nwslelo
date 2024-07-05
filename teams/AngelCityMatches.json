@@ -152,5 +152,16 @@
         "Result2": 0.0,
         "Elo1new": 960,
         "Elo2new": 957
+    },
+    {
+        "id": 105,
+        "Team1": "Angel City FC",
+        "ELO1": 957,
+        "Team2": "Orlando Pride",
+        "Elo2": 1096,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 947,
+        "Elo2new": 1105
     }
 ]

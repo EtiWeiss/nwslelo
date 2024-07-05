@@ -141,5 +141,16 @@
         "Result2": 0.0,
         "Elo1new": 960,
         "Elo2new": 957
+    },
+    {
+        "id": 101,
+        "Team1": "Racing Louisville FC",
+        "ELO1": 988,
+        "Team2": "Bay FC",
+        "Elo2": 960,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 970,
+        "Elo2new": 977
     }
 ]

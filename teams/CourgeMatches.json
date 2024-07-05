@@ -152,5 +152,16 @@
         "Result2": 0.0,
         "Elo1new": 979,
         "Elo2new": 952
+    },
+    {
+        "id": 102,
+        "Team1": "Washington Spirit",
+        "ELO1": 1080,
+        "Team2": "North Carolina Courage",
+        "Elo2": 979,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 1059,
+        "Elo2new": 999
     }
 ]

@@ -152,5 +152,16 @@
         "Result2": 1.0,
         "Elo1new": 1025,
         "Elo2new": 1090
+    },
+    {
+        "id": 99,
+        "Team1": "Kansas City Current",
+        "ELO1": 1090,
+        "Team2": "Houston Dash",
+        "Elo2": 946,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1099,
+        "Elo2new": 936
     }
 ]
