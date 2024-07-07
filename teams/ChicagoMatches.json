@@ -163,5 +163,16 @@
         "Result2": 1.0,
         "Elo1new": 963,
         "Elo2new": 969
+    },
+    {
+        "id": 107,
+        "Team1": "Chicago Red Stars",
+        "ELO1": 969,
+        "Team2": "Houston Dash",
+        "Elo2": 936,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 983,
+        "Elo2new": 921
     }
 ]

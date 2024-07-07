@@ -163,5 +163,16 @@
         "Result2": 0.0,
         "Elo1new": 1099,
         "Elo2new": 936
+    },
+    {
+        "id": 108,
+        "Team1": "Kansas City Current",
+        "ELO1": 1099,
+        "Team2": "Orlando Pride",
+        "Elo2": 1105,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 1083,
+        "Elo2new": 1120
     }
 ]

@@ -174,5 +174,16 @@
         "Result2": 1.0,
         "Elo1new": 963,
         "Elo2new": 969
+    },
+    {
+        "id": 106,
+        "Team1": "Portland Thorns FC",
+        "ELO1": 1019,
+        "Team2": "San Diego Wave FC",
+        "Elo2": 963,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1032,
+        "Elo2new": 949
     }
 ]

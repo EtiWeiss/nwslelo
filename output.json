@@ -2,13 +2,13 @@
     {
         "ID": 7,
         "Team": "Orlando Pride",
-        "ELO": 1105,
+        "ELO": 1120,
         "link": "teams/orlando.html"
     },
     {
         "ID": 4,
         "Team": "Kansas City Current",
-        "ELO": 1099,
+        "ELO": 1083,
         "link": "teams/current.html"
     },
     {
@@ -26,7 +26,7 @@
     {
         "ID": 8,
         "Team": "Portland Thorns FC",
-        "ELO": 1019,
+        "ELO": 1032,
         "link": "teams/portland.html"
     },
     {
@@ -34,6 +34,12 @@
         "Team": "North Carolina Courage",
         "ELO": 999,
         "link": "teams/courage.html"
+    },
+    {
+        "ID": 2,
+        "Team": "Chicago Red Stars",
+        "ELO": 983,
+        "link": "teams/chicago.html"
     },
     {
         "ID": 1,
@@ -48,15 +54,9 @@
         "link": "teams/louisville.html"
     },
     {
-        "ID": 2,
-        "Team": "Chicago Red Stars",
-        "ELO": 969,
-        "link": "teams/chicago.html"
-    },
-    {
         "ID": 10,
         "Team": "San Diego Wave FC",
-        "ELO": 963,
+        "ELO": 949,
         "link": "teams/sandiego.html"
     },
     {
@@ -66,16 +66,16 @@
         "link": "teams/angelcity.html"
     },
     {
-        "ID": 3,
-        "Team": "Houston Dash",
-        "ELO": 936,
-        "link": "teams/houston.html"
-    },
-    {
         "ID": 11,
         "Team": "Seattle Reign",
         "ELO": 929,
         "link": "teams/seattle.html"
+    },
+    {
+        "ID": 3,
+        "Team": "Houston Dash",
+        "ELO": 921,
+        "link": "teams/houston.html"
     },
     {
         "ID": 12,
