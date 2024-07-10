@@ -14,13 +14,13 @@
     {
         "ID": 13,
         "Team": "Washington Spirit",
-        "ELO": 1059,
+        "ELO": 1071,
         "link": "teams/washington.html"
     },
     {
         "ID": 5,
         "Team": "NJ/NY Gotham FC",
-        "ELO": 1039,
+        "ELO": 1050,
         "link": "teams/gotham.html"
     },
     {
@@ -32,7 +32,7 @@
     {
         "ID": 6,
         "Team": "North Carolina Courage",
-        "ELO": 999,
+        "ELO": 1013,
         "link": "teams/courage.html"
     },
     {
@@ -44,13 +44,13 @@
     {
         "ID": 1,
         "Team": "Bay FC",
-        "ELO": 977,
+        "ELO": 964,
         "link": "teams/bayfc.html"
     },
     {
         "ID": 9,
         "Team": "Racing Louisville FC",
-        "ELO": 970,
+        "ELO": 955,
         "link": "teams/louisville.html"
     },
     {
@@ -62,13 +62,13 @@
     {
         "ID": 0,
         "Team": "Angel City FC",
-        "ELO": 947,
+        "ELO": 935,
         "link": "teams/angelcity.html"
     },
     {
         "ID": 11,
         "Team": "Seattle Reign",
-        "ELO": 929,
+        "ELO": 927,
         "link": "teams/seattle.html"
     },
     {
@@ -80,7 +80,7 @@
     {
         "ID": 12,
         "Team": "Utah Royals FC",
-        "ELO": 895,
+        "ELO": 896,
         "link": "teams/utah.html"
     }
 ]

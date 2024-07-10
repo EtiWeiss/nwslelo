@@ -163,5 +163,16 @@
         "Result2": 0.5,
         "Elo1new": 1039,
         "Elo2new": 929
+    },
+    {
+        "id": 109,
+        "Team1": "Angel City FC",
+        "ELO1": 947,
+        "Team2": "NJ/NY Gotham FC",
+        "Elo2": 1039,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 935,
+        "Elo2new": 1050
     }
 ]

@@ -152,5 +152,16 @@
         "Result2": 1.0,
         "Elo1new": 970,
         "Elo2new": 977
+    },
+    {
+        "id": 110,
+        "Team1": "Bay FC",
+        "ELO1": 977,
+        "Team2": "Washington Spirit",
+        "Elo2": 1059,
+        "Result1": 0.0,
+        "Result2": 1.0,
+        "Elo1new": 964,
+        "Elo2new": 1071
     }
 ]

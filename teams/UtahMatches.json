@@ -163,5 +163,16 @@
         "Result2": 0.5,
         "Elo1new": 895,
         "Elo2new": 1019
+    },
+    {
+        "id": 112,
+        "Team1": "Seattle Reign",
+        "ELO1": 929,
+        "Team2": "Utah Royals FC",
+        "Elo2": 895,
+        "Result1": 0.5,
+        "Result2": 0.5,
+        "Elo1new": 927,
+        "Elo2new": 896
     }
 ]

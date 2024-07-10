@@ -163,5 +163,16 @@
         "Result2": 1.0,
         "Elo1new": 1059,
         "Elo2new": 999
+    },
+    {
+        "id": 111,
+        "Team1": "North Carolina Courage",
+        "ELO1": 999,
+        "Team2": "Racing Louisville FC",
+        "Elo2": 970,
+        "Result1": 1.0,
+        "Result2": 0.0,
+        "Elo1new": 1013,
+        "Elo2new": 955
     }
 ]
